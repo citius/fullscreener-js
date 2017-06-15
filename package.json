@@ -2,6 +2,10 @@
   "name": "Application",
   "version": "0.0.1",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/citius/fullscreener-js.git"
+  },
   "scripts": {
     "build": "webpack -p"
   },
